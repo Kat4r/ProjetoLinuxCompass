@@ -20,7 +20,7 @@ sudo apt install nginx
 ```
 
 ### 2. Criação do Script de Validação
-Criei um script chamado `validacao_nginx.sh` no diretório `/home/vini-compass/atividade-linux` onde é validado se o serviço `Nginx` está ONLINE ou OFFLINE.
+Criei um script chamado `validacao_nginx.sh` no diretório `/home/vini-compass/atividade-linux` onde é validado se o serviço `Nginx` está **ONLINE** ou **OFFLINE**.
 
 ### 3. Permissões do Script
 Certifique-se de que o script tem permissões de execução:
