@@ -1,4 +1,4 @@
-# Instalação do Linux (Ubunto) com WSL
+# Instalação do Linux (Ubuntu) com WSL
 
 Essa parte é essencial para ter um subsistema linux em seu sistema operacional windows
 
