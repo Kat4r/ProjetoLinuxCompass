@@ -6,7 +6,7 @@ Essa parte é essencial para ter um subsistema linux em seu sistema operacional 
 
 ### 1. Instalação do WSL
 
-Abra o PowerShell como adminstrador e rode o seguinte comando
+Abra o `PowerShell` como adminstrador e rode o seguinte comando
 ```
 wsl --install
 ```
@@ -14,11 +14,11 @@ wsl --install
 
 ### Método 1: Via Microsoft Store
 1. Pesquise por Ubuntu (ou outra distro de seu interesse)
-2. Clique na versão que deseja instalar e selecione Obter ou Instalar.
-3. Após a instalação, clique em Iniciar para abrir o Ubuntu.
+2. Clique na versão que deseja instalar e selecione **Obter** ou **Instalar**.
+3. Após a instalação, clique em **Iniciar** para abrir o Ubuntu.
 
 ### Método 2: Via PowerShell
-1. Com o PowerShell aberto, use o comando
+1. Com o `PowerShell` aberto, use o comando
 ```
 wsl --list --online
 ```
